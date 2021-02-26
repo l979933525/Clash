@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - name: 请使用V2ray订阅或Clash
+  - name: PIECLOUD
     server: ths1f9qf.xyz
     port: 10086
     type: vmess
