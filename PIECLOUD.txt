@@ -127,19 +127,6 @@ proxies:
     ws-path: /iso
     ws-headers:
       Host: gz-us-1.dnspro.icu
-  - name: 🇰🇷 韩国 CN2 | 切勿下载 | V2ray | Netflix | C1
-    server: kr-pie-1.dnspro.icu
-    port: 4433
-    type: vmess
-    uuid: 9a996abd-31d0-397e-9769-2304fe701b97
-    alterId: 2
-    cipher: auto
-    tls: false
-    skip-cert-verify: false
-    network: ws
-    ws-path: /iso
-    ws-headers:
-      Host: kr-pie-1.dnspro.icu
   - name: 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
     server: aga-in-1.dnspro.icu
     port: 1005
@@ -199,7 +186,6 @@ proxy-groups:
       - 🇯🇵 日本 V2ray | AGA测试 | Netflix | C1
       - 🇯🇵 日本 沪日9929 | Netflix/ABTV | C1
       - 🇺🇸 美国 V2ray | 全媒体 | C1
-      - 🇰🇷 韩国 CN2 | 切勿下载 | V2ray | Netflix | C1
       - 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
       - 🇭🇰 香港 沪港9929 | Netflix | C1
       - 🇭🇰 香港 粤港港 | V2ray | Netflix/TVB | C1
@@ -235,7 +221,6 @@ proxy-groups:
       - 🇸🇬 新加坡 苏新 | V2ray | Netflix | C1
       - 🇯🇵 日本 V2ray | AGA测试 | Netflix | C1
       - 🇯🇵 日本 沪日9929 | Netflix/ABTV | C1
-      - 🇰🇷 韩国 CN2 | 切勿下载 | V2ray | Netflix | C1
       - 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
       - 🇭🇰 香港 沪港9929 | Netflix | C1
       - 🇭🇰 香港 粤港港 | V2ray | Netflix/TVB | C1
@@ -263,7 +248,6 @@ proxy-groups:
       - 🇯🇵 日本 V2ray | AGA测试 | Netflix | C1
       - 🇯🇵 日本 沪日9929 | Netflix/ABTV | C1
       - 🇺🇸 美国 V2ray | 全媒体 | C1
-      - 🇰🇷 韩国 CN2 | 切勿下载 | V2ray | Netflix | C1
       - 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
       - 🇭🇰 香港 沪港9929 | Netflix | C1
       - 🇭🇰 香港 粤港港 | V2ray | Netflix/TVB | C1
