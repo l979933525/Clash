@@ -241,7 +241,7 @@ proxy-groups:
     proxies:
       - Proxies
       - DIRECT
-- name: UrlTest
+  - name: UrlTest
     proxies:
       - 🇷🇺 俄罗斯 豫俄 | V2ray | C1
       - 🇭🇰 台湾 粤港台 | Netflix/动画疯 | C1
