@@ -236,7 +236,12 @@ proxy-groups:
       - Proxies
       - HK
       - TW
-  - name: UrlTest
+  - name: Final
+    type: select
+    proxies:
+      - Proxies
+      - DIRECT
+- name: UrlTest
     proxies:
       - 🇷🇺 俄罗斯 豫俄 | V2ray | C1
       - 🇭🇰 台湾 粤港台 | Netflix/动画疯 | C1
@@ -1911,4 +1916,4 @@ rules:
   - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
   - IP-CIDR,182.254.116.0/24,DIRECT,no-resolve
   - GEOIP,CN,DIRECT
-  - MATCH,Proxies
+  - MATCH,Final
