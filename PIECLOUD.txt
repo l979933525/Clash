@@ -176,19 +176,6 @@ proxy-groups:
       - JP
       - US
       - TW
-      - 🇷🇺 俄罗斯 豫俄 | V2ray | C1
-      - 🇭🇰 台湾 粤港台 | Netflix/动画疯 | C1
-      - 🇹🇷 土耳其 | Netflix | C1
-      - 🇸🇬 新加坡 V2ray | AGA测试 | Netflix | C1
-      - 🇸🇬 新加坡 V2ray | 全媒体 | C1
-      - 🇸🇬 新加坡 沪新9929 | Netflix | C1
-      - 🇸🇬 新加坡 苏新 | V2ray | Netflix | C1
-      - 🇯🇵 日本 V2ray | AGA测试 | Netflix | C1
-      - 🇯🇵 日本 沪日9929 | Netflix/ABTV | C1
-      - 🇺🇸 美国 V2ray | 全媒体 | C1
-      - 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
-      - 🇭🇰 香港 沪港9929 | Netflix | C1
-      - 🇭🇰 香港 粤港港 | V2ray | Netflix/TVB | C1
   - name: Apple
     type: select
     proxies:
@@ -214,16 +201,6 @@ proxy-groups:
       - JP
       - US
       - TW
-      - 🇭🇰 台湾 粤港台 | Netflix/动画疯 | C1
-      - 🇹🇷 土耳其 | Netflix | C1
-      - 🇸🇬 新加坡 V2ray | AGA测试 | Netflix | C1
-      - 🇸🇬 新加坡 沪新9929 | Netflix | C1
-      - 🇸🇬 新加坡 苏新 | V2ray | Netflix | C1
-      - 🇯🇵 日本 V2ray | AGA测试 | Netflix | C1
-      - 🇯🇵 日本 沪日9929 | Netflix/ABTV | C1
-      - 🇭🇰 香港 V2ray | AGA测试 | Netflix | C1
-      - 🇭🇰 香港 沪港9929 | Netflix | C1
-      - 🇭🇰 香港 粤港港 | V2ray | Netflix/TVB | C1
   - name: Final
     type: select
     proxies:
