@@ -258,8 +258,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: "300"
 rules:
-  - DOMAIN-KEYWORD,seesaawiki,JP
-  - DOMAIN-SUFFIX,seesaawiki.jp,JP
   - DOMAIN-KEYWORD,mgstage,JP
   - DOMAIN-SUFFIX,17gouwuba.com,REJECT
   - DOMAIN-SUFFIX,186078.com,REJECT
