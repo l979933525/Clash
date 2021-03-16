@@ -239,7 +239,9 @@ proxy-groups:
       - 🇸🇬 新加坡 V2ray | 全媒体 | C1
       - 🇸🇬 新加坡 沪新9929 | Netflix | C1
       - 🇸🇬 新加坡 苏新 | V2ray | Netflix | C1
-    type: select
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: "300"
   - name: TW
     proxies:
       - 🇭🇰 台湾 粤港台 | Netflix/动画疯 | C1
